@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link> -->
     </div>
     <router-view />
+    <font-awesome-icon icon="address-card"></font-awesome-icon>
   </div>
 </template>
 
